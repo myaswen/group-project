@@ -11,10 +11,6 @@
 ## Project Summary
 Scuttlr is fullstack, stateful web-app that draws functionality and style insperation from [tumblr.com](https://www.tumblr.com/). The current build of Scuttlr offers four key features of interaction: posts, comments, likes, and follows. Users are able to switch between the all-posts feed and a personal feed. A user's personal feed is influenced by the users that they follow. When logged in, users are able to like and make comments on any post.
 
-[Check out the live site!](https://scuttlr.onrender.com/)
-
-    scuttlr.onrender.com
-
 ---
 ## **Technologies Used**
 
